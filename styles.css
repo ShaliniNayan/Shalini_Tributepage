@@ -1,6 +1,45 @@
 #image {
     max-width: 100%;
-    display: center block;
+    display: block;
     height: auto;
     margin: 0 auto 0 0
   }
+h1 {
+    font-size: 4rem;
+    margin-bottom: 0;
+    background-color: rgb(199, 191, 191);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+    font-size: 40px;
+    line-height: 60px;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    color: black;
+
+}
+figcaption, h1 {
+    text-align: center;
+    background-color: rgb(199, 191, 191);
+    color: black
+}
+#img-div {
+    align-items: center;
+    background: white;
+    padding: 10px;
+    margin: 0;
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: rgb(255, 255, 255);
+    background-image: none;
+    background-origin: padding-box;
+    background-position-x: 0%;
+    background-position-y: 0%;background-repeat: repeat;
+    background-size: auto;
+}
+
+
+h3, ul,  p {
+    background-color: rgb(199, 191, 191);
+    text-align: center;
+    align-items: center;
+
+}
